@@ -6,6 +6,8 @@
 
 这是下载索引；软件包链接指向文件服务器。
 
+每个软件包链接都附有 MD5。完整列表见 [MD5SUMS](MD5SUMS)。
+
 ## 内容
 
 - [aura-nx-5000](<aura-nx-5000/README_zh-CN.md>) — Aura NX-5000 软件包

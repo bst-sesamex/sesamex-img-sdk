@@ -6,10 +6,10 @@ Image and tool packages for this product release. Use the product-specific packa
 
 ## Contents
 
-- [IMGS-BST-HS-Linux-V2.1.0_20261010-014041-SDK.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/IMGS-BST-HS-Linux-V2.1.0_20261010-014041-SDK.zip>) — Linux image SDK package, build timestamp 20261010-014041
-- [Hanhai-SDK-Manager-26.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/Hanhai-SDK-Manager-26.zip>) — SDK Manager 26 package; contains a tar archive and launch script
-- [HanHai-flashtool-linux-3.6.5.4.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/HanHai-flashtool-linux-3.6.5.4.zip>) — Flash tool 3.6.5.4 for Linux
-- [HanHai-flashtool-windows-3.6.5.4.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/HanHai-flashtool-windows-3.6.5.4.zip>) — Flash tool 3.6.5.4 for Windows
+- [IMGS-BST-HS-Linux-V2.1.0_20261010-014041-SDK.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/IMGS-BST-HS-Linux-V2.1.0_20261010-014041-SDK.zip>) — Linux image SDK package, build timestamp 20261010-014041. MD5 `1dadd8d970e08206783d27e7f35b7d3b`
+- [Hanhai-SDK-Manager-26.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/Hanhai-SDK-Manager-26.zip>) — SDK Manager 26 package; contains a tar archive and launch script. MD5 `34e7975f7bcef487b6ba80d0d754128e`
+- [HanHai-flashtool-linux-3.6.5.4.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/HanHai-flashtool-linux-3.6.5.4.zip>) — Flash tool 3.6.5.4 for Linux. MD5 `eb201393a19a9dde34b97b45d5a990ea`
+- [HanHai-flashtool-windows-3.6.5.4.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/HanHai-flashtool-windows-3.6.5.4.zip>) — Flash tool 3.6.5.4 for Windows. MD5 `3f8445ed09c41f2f92ab74d736a33c70`
 
 ## License and distribution
 

@@ -6,10 +6,10 @@
 
 ## 内容
 
-- [IMGS-BST-HS-Linux-V2.1.0_20261010-014041-SDK.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/IMGS-BST-HS-Linux-V2.1.0_20261010-014041-SDK.zip>) — Linux 镜像 SDK 包，构建时间标识 20261010-014041
-- [Hanhai-SDK-Manager-26.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/Hanhai-SDK-Manager-26.zip>) — SDK Manager 26 包，包含 tar 归档和启动脚本
-- [HanHai-flashtool-linux-3.6.5.4.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/HanHai-flashtool-linux-3.6.5.4.zip>) — Linux 刷机工具 3.6.5.4
-- [HanHai-flashtool-windows-3.6.5.4.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/HanHai-flashtool-windows-3.6.5.4.zip>) — Windows 刷机工具 3.6.5.4
+- [IMGS-BST-HS-Linux-V2.1.0_20261010-014041-SDK.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/IMGS-BST-HS-Linux-V2.1.0_20261010-014041-SDK.zip>) — Linux 镜像 SDK 包，构建时间标识 20261010-014041。MD5 `1dadd8d970e08206783d27e7f35b7d3b`
+- [Hanhai-SDK-Manager-26.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/Hanhai-SDK-Manager-26.zip>) — SDK Manager 26 包，包含 tar 归档和启动脚本。MD5 `34e7975f7bcef487b6ba80d0d754128e`
+- [HanHai-flashtool-linux-3.6.5.4.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/HanHai-flashtool-linux-3.6.5.4.zip>) — Linux 刷机工具 3.6.5.4。MD5 `eb201393a19a9dde34b97b45d5a990ea`
+- [HanHai-flashtool-windows-3.6.5.4.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/kalos-nx-3000/V2.1.0/HanHai-flashtool-windows-3.6.5.4.zip>) — Windows 刷机工具 3.6.5.4。MD5 `3f8445ed09c41f2f92ab74d736a33c70`
 
 ## 许可与分发
 

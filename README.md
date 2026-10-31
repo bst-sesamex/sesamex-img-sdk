@@ -6,6 +6,8 @@ Image packages, SDK managers, flash tools and neural-network development tools f
 
 This is a download index; package links point to the file server.
 
+Each package link includes an MD5 checksum. The full list is in [MD5SUMS](MD5SUMS).
+
 ## Contents
 
 - [aura-nx-5000](<aura-nx-5000/README.md>) — Aura NX-5000 packages
