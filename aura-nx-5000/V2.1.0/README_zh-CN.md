@@ -6,7 +6,7 @@
 
 ## 内容
 
-- [IMGS-BST-WD-Linux-V2.1.0_20261030-094153-SDK.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/aura-nx-5000/V2.1.0/IMGS-BST-WD-Linux-V2.1.0_20261030-094153-SDK.zip>) — Linux 镜像 SDK 包，构建时间标识 20261030-094153。MD5 `38de8ee9f2dfc1b607192bb30ce00f8d`
+- [IMGS-BST-WD-Linux-V2.1.0_20261114-000000-SDK.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/aura-nx-5000/V2.1.0/IMGS-BST-WD-Linux-V2.1.0_20261114-000000-SDK.zip>) — Linux 镜像 SDK 包，构建时间标识 20261114-000000。MD5 `3b3ead48d2e9d1760d39788d0469ae7f`
 - [Hanhai-SDK-Manager-25.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/aura-nx-5000/V2.1.0/Hanhai-SDK-Manager-25.zip>) — SDK Manager 25 包，包含 tar 归档和启动脚本。MD5 `22a6c4845cd6f7138083bc2c88dfd1ca`
 - [HanHai-flashtool-linux-4.0.2.0-robot.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/aura-nx-5000/V2.1.0/HanHai-flashtool-linux-4.0.2.0-robot.zip>) — Linux 刷机工具 4.0.2.0。MD5 `770068096975e16d3cf33c4885960d72`
 - [HanHai-flashtool-windows-4.0.2.0-robot.zip](<https://pkgs.bstai.top/robot/sesamex-img-sdk/aura-nx-5000/V2.1.0/HanHai-flashtool-windows-4.0.2.0-robot.zip>) — Windows 刷机工具 4.0.2.0。MD5 `47f019917b3761235eb52689023e7bf4`
